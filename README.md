@@ -6,4 +6,4 @@ Whether you're here for my open source projects or just looking to learn more ab
 
 Thanks for stopping by!
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />]
