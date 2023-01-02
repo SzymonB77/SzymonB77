@@ -1,5 +1,4 @@
-### Hello there, I'm Szymon 👋
-### Welcome to my GitHub profile!
+## Hello there, I'm Szymon and welcome to my GitHub profile!
 
 I am an enthusiastic programmer with experience in Ruby, Ruby on Rails, SQL, PostgreSQL, Git and Linux. As a recent graduate of Rzeszow University of Technology (majoring in Finance and Accounting), I have a solid background in finance-related fields.
 
